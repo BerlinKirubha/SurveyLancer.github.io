@@ -1,3 +1,5 @@
+Survey Lancer is a totally voice-based multi-language supported survey platform 
+
 Welcome to our Survey Lancer.We are excited to gather your valuable feedback and opinions on a variety of topics.Your privacy is our top priority, and all responses will be kept strictly confidential.
 
 Here, we strive to provide the best possible experience through multi-language support for our customers.
